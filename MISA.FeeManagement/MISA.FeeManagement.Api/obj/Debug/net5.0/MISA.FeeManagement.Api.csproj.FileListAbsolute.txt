@@ -1,0 +1,74 @@
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\appsettings.json
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.exe
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.deps.json
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.runtimeconfig.json
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.runtimeconfig.dev.json
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\ref\MISA.FeeManagement.Api.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.pdb
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Dapper.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MySqlConnector.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.Common.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.DataLayer.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.Service.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.Common.pdb
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.Service.pdb
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.DataLayer.pdb
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.csprojAssemblyReference.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.AssemblyInfoInputs.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.AssemblyInfo.cs
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.csproj.CoreCompileInputs.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\staticwebassets\MISA.FeeManagement.Api.StaticWebAssets.Manifest.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\staticwebassets\MISA.FeeManagement.Api.StaticWebAssets.xml
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\scopedcss\bundle\MISA.FeeManagement.Api.styles.css
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.RazorTargetAssemblyInfo.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.csproj.CopyComplete
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\ref\MISA.FeeManagement.Api.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.pdb
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.genruntimeconfig.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.exe
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.deps.json
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.runtimeconfig.json
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.runtimeconfig.dev.json
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\ref\MISA.FeeManagement.Api.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.FeeManagement.Api.pdb
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.Common.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.DataLayer.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.Service.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.Common.pdb
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.Service.pdb
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\bin\Debug\net5.0\MISA.DataLayer.pdb
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.csprojAssemblyReference.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.AssemblyInfoInputs.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.AssemblyInfo.cs
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\staticwebassets\MISA.FeeManagement.Api.StaticWebAssets.Manifest.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\staticwebassets\MISA.FeeManagement.Api.StaticWebAssets.xml
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\scopedcss\bundle\MISA.FeeManagement.Api.styles.css
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.csproj.CopyComplete
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\ref\MISA.FeeManagement.Api.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.pdb
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.FeeManagement.Api\obj\Debug\net5.0\MISA.FeeManagement.Api.genruntimeconfig.cache

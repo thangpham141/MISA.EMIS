@@ -1,0 +1,18 @@
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+D:\Bài tập giai đoạn 1\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\Thang-PC\OneDrive\Desktop\MISA.FeeManagement_MF732\MISA.FeeManagement\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
